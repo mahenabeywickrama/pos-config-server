@@ -44,7 +44,7 @@ src/main/resources/configurations/
 └── services/
     ├── inventory-service.yaml # Inventory-Service datasource (PostgreSQL)
     ├── sales-service.yaml     # Sales-Service datasource (MongoDB)
-    └── payment-service.yaml   # Payment-Service datasource (MySQL)
+    └── payment-service.yaml   # Payment-Service datasource (PostgreSQL)
 ```
 
 ## Service Details
